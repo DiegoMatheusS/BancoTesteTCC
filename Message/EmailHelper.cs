@@ -28,8 +28,8 @@ public async Task EnviarEmail(Models.Email email)
 
         mailMessage.To.Add(new MailAddress(toEmail));
 
-        if (!string.IsNullOrEmpty(email.DestinararioCopia))
-            mailMessage.CC.Add(new MailAddress(email.DestinararioCopia));
+        if (!string.IsNullOrEmpty(email.DestinatarioCopia))
+            mailMessage.CC.Add(new MailAddress(email.DestinatarioCopia));
 
         mailMessage.Subject = "Recuperação de Senha - EcoCria";
         mailMessage.Body = GerarCorpoEmail(email.Mensagem);  // Corpo do e-mail gerado a partir da mensagem

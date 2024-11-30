@@ -8,6 +8,7 @@ using Models;
 using TCCEcoCria.Utils;
 using TCCEcoCria.Models.Enuns;
 using Microsoft.EntityFrameworkCore.Migrations;
+using TCCEcoCria.Models;
 
 namespace TCCEcoCria.Data
 {
@@ -31,6 +32,8 @@ namespace TCCEcoCria.Data
         public DbSet<TipoDePonto> TB_TIPOPONTO{get; set;}
         public DbSet<Trocas> TB_TROCAS{get; set;}
 
+        public DbSet<Email> TB_EMAIL{get; set;}
+
        
 
 
@@ -51,6 +54,7 @@ namespace TCCEcoCria.Data
             modelBuilder.Entity<Publicacao>().ToTable("TB_PUBLICACAO");
             modelBuilder.Entity<TipoDePonto>().ToTable("TB_TIPOPONTO");
             modelBuilder.Entity<Trocas>().ToTable("TB_TROCAS");
+            modelBuilder.Entity<Email>().ToTable("TB_EMAIL");
 
             modelBuilder.Entity<Materiais>().HasKey(m => m.IdMaterial);
             modelBuilder.Entity<Usuario>().HasKey(m => m.IdUsuario);
@@ -66,6 +70,7 @@ namespace TCCEcoCria.Data
             modelBuilder.Entity<Publicacao>().HasKey(m => m.IdPublicacao);
             modelBuilder.Entity<TipoDePonto>().HasKey(m => m.IdTipoPonto);
             modelBuilder.Entity<Trocas>().HasKey(m => m.IdTroca);
+            modelBuilder.Entity<Email>().HasNoKey();
 
 
             modelBuilder.Entity<Pontos>()
@@ -101,6 +106,7 @@ namespace TCCEcoCria.Data
                 .HasOne(e => e.OrdemDeGrandeza)
                 .WithMany(e => e.ColetaItens)
                 .HasForeignKey(e => e.IdOrdemGrandeza);
+
                 
 
 
@@ -188,6 +194,7 @@ namespace TCCEcoCria.Data
             user.EmailUsuario = "seuEmail@gmail.com";
             user.Latitude = -23.5200241;
             user.Longitude = -46.596498;
+            user.CodigoRecuperacao = "123456";
 
             modelBuilder.Entity<Usuario>().HasData(user); //fim da criacao do usuario padrao
             modelBuilder.Entity<Usuario>().Property(u => u.Perfil).HasDefaultValue("Cliente"); //Define que se o perfil nao for informado, o valor padrao sera jogador

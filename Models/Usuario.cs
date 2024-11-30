@@ -39,6 +39,7 @@ namespace Models
         [JsonIgnore]
         public List<Coletas>? Coletas {get; set;} 
 
+
         public string CodigoRecuperacao { get; set; }
         public DateTime? ExpiracaoCodigo { get; set; }
 

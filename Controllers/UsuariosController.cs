@@ -148,37 +148,48 @@ namespace RpgApi.Controllers
 
             return RedirectToAction("MudandoSenha");
         }*/
-        [HttpPost("salvarCodigo")]
-        public async Task<IActionResult> SalvarCodigo([FromBody] Usuario usuario)
+
+        [AllowAnonymous]
+        [HttpPost("SalvarCodigo")]
+        public async Task<IActionResult> SalvarCodigoRecuperacao([FromBody] Usuario usuario)
         {
+            if (usuario == null || string.IsNullOrEmpty(usuario.EmailUsuario))
+            {
+                return BadRequest("Dados inválidos");
+            }
+
             try
             {
-                if (usuario == null || string.IsNullOrEmpty(usuario.EmailUsuario))
-                {
-                    return BadRequest("Dados inválidos");
-                }
-
-                // 1. Salvar o código no banco de dados
+                // Buscar o usuário no banco de dados
                 var usuarioDb = await _context.TB_USUARIOS
                     .FirstOrDefaultAsync(u => u.EmailUsuario == usuario.EmailUsuario);
 
                 if (usuarioDb == null)
                 {
-                    return NotFound("Usuário não encontrado");
+                    return NotFound("Usuário não encontrado.");
                 }
 
-                usuarioDb.CodigoRecuperacao = usuario.CodigoRecuperacao;
-                usuarioDb.ExpiracaoCodigo = usuario.ExpiracaoCodigo;
+                // Gerar o código de recuperação
+                var codigo = GerarCodigoRecuperacao();
+                var expiracao = DateTime.Now.AddMinutes(30);  // Expiração em 30 minutos
 
+                // Salvar o código gerado no usuário
+                usuarioDb.CodigoRecuperacao = codigo;
+                usuarioDb.ExpiracaoCodigo = expiracao;
+
+                // Atualiza no banco de dados
+                _context.TB_USUARIOS.Update(usuarioDb);
                 await _context.SaveChangesAsync();
 
-                return Ok("Código de recuperação salvo com sucesso");
+                // Retornar sucesso
+                return Ok(new { Mensagem = "Código de recuperação gerado e salvo com sucesso." });
             }
             catch (Exception ex)
             {
                 return BadRequest($"Erro ao salvar o código: {ex.Message}");
             }
         }
+
 
 
 
@@ -292,32 +303,13 @@ namespace RpgApi.Controllers
             }
         }
 
-        [HttpPost]
-[Route("SalvarCodigo")]
-public async Task<IActionResult> SalvarCodigoRecuperacao([FromBody] Usuario usuario)
-{
-    // 1. Gerar o código de recuperação
-    var codigo = GerarCodigoRecuperacao();
-    var expiracao = DateTime.Now.AddMinutes(30);  // Expiração em 30 minutos
 
-    // 2. Salvar código no banco de dados
-    usuario.CodigoRecuperacao = codigo;
-    usuario.ExpiracaoCodigo = expiracao;
-
-    // Supondo que você tenha uma maneira de salvar o usuário no banco de dados, como um repositório:
-    _context.TB_USUARIOS.Update(usuario);
-    await _context.SaveChangesAsync();
-
-    // 3. Retornar sucesso
-    return Ok(new { Mensagem = "Código de recuperação gerado e salvo com sucesso." });
-}
-
-// Método para gerar o código de recuperação
-private string GerarCodigoRecuperacao()
-{
-    Random random = new Random();
-    return random.Next(100000, 999999).ToString(); // Gera um código numérico aleatório de 6 dígitos
-}
+        // Método para gerar o código de recuperação
+        private string GerarCodigoRecuperacao()
+        {
+            Random random = new Random();
+            return random.Next(100000, 999999).ToString(); // Gera um código numérico aleatório de 6 dígitos
+        }
 
     }
 }
