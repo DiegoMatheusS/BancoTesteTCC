@@ -1,302 +1,479 @@
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\appsettings.Development.json
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\appsettings.json
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\ECOCRIA.exe
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\ECOCRIA.deps.json
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\ECOCRIA.runtimeconfig.json
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\ECOCRIA.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\ECOCRIA.pdb
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\AutoMapper.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Azure.Core.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Azure.Identity.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Humanizer.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Identity.Client.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.OpenApi.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Mono.TextTemplating.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Newtonsoft.Json.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Newtonsoft.Json.Bson.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\System.CodeDom.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\System.Composition.AttributedModel.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\System.Composition.Convention.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\System.Composition.Hosting.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\System.Composition.Runtime.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\System.Composition.TypedParts.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\System.Drawing.Common.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\System.Memory.Data.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\System.Runtime.Caching.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\System.Security.Permissions.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\System.Windows.Extensions.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.csproj.AssemblyReference.cache
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.AssemblyInfoInputs.cache
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.AssemblyInfo.cs
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.csproj.CoreCompileInputs.cache
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.sourcelink.json
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\staticwebassets.build.json
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\staticwebassets.development.json
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\staticwebassets\msbuild.ECOCRIA.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\staticwebassets\msbuild.build.ECOCRIA.props
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.ECOCRIA.props
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.ECOCRIA.props
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\staticwebassets.pack.json
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\scopedcss\bundle\ECOCRIA.styles.css
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.csproj.Up2Date
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\refint\ECOCRIA.dll
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.pdb
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.genruntimeconfig.cache
-C:\Users\dmsdi\OneDrive\Área de Trabalho\ECOCRIA\TCC-EcoCria\TCC-EcoCria\obj\Release\net8.0\ref\ECOCRIA.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\appsettings.Development.json
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\appsettings.json
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\ECOCRIA.exe
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\ECOCRIA.deps.json
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\ECOCRIA.runtimeconfig.json
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\ECOCRIA.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\ECOCRIA.pdb
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\AutoMapper.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Azure.Core.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Azure.Identity.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Humanizer.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.AspNetCore.JsonPatch.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.AspNetCore.OpenApi.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Extensions.Logging.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Extensions.Options.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Identity.Client.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.OpenApi.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Mono.TextTemplating.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Newtonsoft.Json.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Newtonsoft.Json.Bson.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\System.CodeDom.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\System.Composition.AttributedModel.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\System.Composition.Convention.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\System.Composition.Hosting.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\System.Composition.Runtime.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\System.Composition.TypedParts.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\System.Drawing.Common.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\System.Memory.Data.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\System.Runtime.Caching.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\System.Security.Permissions.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\System.Windows.Extensions.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.csproj.AssemblyReference.cache
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.GeneratedMSBuildEditorConfig.editorconfig
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.AssemblyInfoInputs.cache
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.AssemblyInfo.cs
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.csproj.CoreCompileInputs.cache
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.MvcApplicationPartsAssemblyInfo.cs
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.MvcApplicationPartsAssemblyInfo.cache
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.sourcelink.json
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\staticwebassets.build.json
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\staticwebassets.development.json
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\staticwebassets\msbuild.ECOCRIA.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\staticwebassets\msbuild.build.ECOCRIA.props
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.ECOCRIA.props
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.ECOCRIA.props
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\staticwebassets.pack.json
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\scopedcss\bundle\ECOCRIA.styles.css
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.csproj.Up2Date
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\refint\ECOCRIA.dll
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.pdb
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\ECOCRIA.genruntimeconfig.cache
-D:\Diego_Matheus_3DS\3DS\TCC\TCC-ECOCRIA\TccEcoCria\TCC-EcoCria\obj\Release\net8.0\ref\ECOCRIA.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/appsettings.Development.json
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/appsettings.json
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/ECOCRIA.exe
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/ECOCRIA.deps.json
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/ECOCRIA.runtimeconfig.json
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/ECOCRIA.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/ECOCRIA.pdb
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/AutoMapper.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Azure.Core.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Azure.Identity.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Humanizer.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Identity.Client.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.OpenApi.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Mono.TextTemplating.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Newtonsoft.Json.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Newtonsoft.Json.Bson.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/System.CodeDom.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/System.Composition.AttributedModel.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/System.Composition.Convention.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/System.Composition.Hosting.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/System.Composition.Runtime.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/System.Composition.TypedParts.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/System.Drawing.Common.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/System.Memory.Data.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/System.Runtime.Caching.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/System.Security.Permissions.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/System.Windows.Extensions.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.csproj.AssemblyReference.cache
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.AssemblyInfoInputs.cache
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.AssemblyInfo.cs
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.csproj.CoreCompileInputs.cache
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.sourcelink.json
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/staticwebassets.build.json
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/staticwebassets.development.json
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/staticwebassets/msbuild.ECOCRIA.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/staticwebassets/msbuild.build.ECOCRIA.props
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/staticwebassets/msbuild.buildMultiTargeting.ECOCRIA.props
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/staticwebassets/msbuild.buildTransitive.ECOCRIA.props
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/staticwebassets.pack.json
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/scopedcss/bundle/ECOCRIA.styles.css
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.csproj.Up2Date
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/refint/ECOCRIA.dll
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.pdb
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.genruntimeconfig.cache
+C:/Users/dmsdi/OneDrive/Área de Trabalho/ECOCRIA/TCC-EcoCria/TCC-EcoCria/obj/Release/net8.0/ref/ECOCRIA.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/appsettings.Development.json
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/appsettings.json
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/ECOCRIA.exe
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/ECOCRIA.deps.json
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/ECOCRIA.runtimeconfig.json
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/ECOCRIA.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/ECOCRIA.pdb
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/AutoMapper.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Azure.Core.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Azure.Identity.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Humanizer.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.AspNetCore.OpenApi.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.CodeAnalysis.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Data.SqlClient.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.EntityFrameworkCore.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Extensions.Caching.Memory.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Extensions.DependencyInjection.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Extensions.DependencyModel.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Extensions.Logging.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Extensions.Options.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Identity.Client.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.IdentityModel.Abstractions.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.IdentityModel.Logging.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.IdentityModel.Protocols.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.IdentityModel.Tokens.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.OpenApi.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.SqlServer.Server.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Microsoft.Win32.SystemEvents.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Mono.TextTemplating.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Newtonsoft.Json.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Newtonsoft.Json.Bson.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/System.CodeDom.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/System.Composition.AttributedModel.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/System.Composition.Convention.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/System.Composition.Hosting.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/System.Composition.Runtime.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/System.Composition.TypedParts.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/System.Configuration.ConfigurationManager.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/System.Drawing.Common.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/System.Memory.Data.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/System.Runtime.Caching.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/System.Security.Cryptography.ProtectedData.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/System.Security.Permissions.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/System.Windows.Extensions.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/bin/Release/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.csproj.AssemblyReference.cache
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.GeneratedMSBuildEditorConfig.editorconfig
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.AssemblyInfoInputs.cache
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.AssemblyInfo.cs
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.csproj.CoreCompileInputs.cache
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.MvcApplicationPartsAssemblyInfo.cs
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.MvcApplicationPartsAssemblyInfo.cache
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.sourcelink.json
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/staticwebassets.build.json
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/staticwebassets.development.json
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/staticwebassets/msbuild.ECOCRIA.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/staticwebassets/msbuild.build.ECOCRIA.props
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/staticwebassets/msbuild.buildMultiTargeting.ECOCRIA.props
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/staticwebassets/msbuild.buildTransitive.ECOCRIA.props
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/staticwebassets.pack.json
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/scopedcss/bundle/ECOCRIA.styles.css
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.csproj.Up2Date
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/refint/ECOCRIA.dll
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.pdb
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/ECOCRIA.genruntimeconfig.cache
+D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Release/net8.0/ref/ECOCRIA.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/appsettings.Development.json
+/workspaces/BancoTesteTCC/bin/Release/net8.0/appsettings.json
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ECOCRIA
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ECOCRIA.deps.json
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ECOCRIA.runtimeconfig.json
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ECOCRIA.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ECOCRIA.pdb
+/workspaces/BancoTesteTCC/bin/Release/net8.0/AutoMapper.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Azure.Core.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Azure.Identity.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Humanizer.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.Build.Locator.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.CodeAnalysis.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.Data.SqlClient.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.EntityFrameworkCore.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.Extensions.DependencyModel.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.Extensions.Logging.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.Extensions.Options.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.Extensions.Primitives.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.Identity.Client.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.IdentityModel.Logging.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.IdentityModel.Protocols.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.IdentityModel.Tokens.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.OpenApi.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.SqlServer.Server.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Microsoft.Win32.SystemEvents.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Mono.TextTemplating.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Newtonsoft.Json.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Newtonsoft.Json.Bson.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.ClientModel.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.CodeDom.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.Composition.AttributedModel.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.Composition.Convention.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.Composition.Hosting.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.Composition.Runtime.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.Composition.TypedParts.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.Configuration.ConfigurationManager.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.Diagnostics.DiagnosticSource.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.Drawing.Common.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.Formats.Asn1.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.IO.Pipelines.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.Memory.Data.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.Runtime.Caching.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.Security.Cryptography.ProtectedData.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.Security.Permissions.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.Text.Encodings.Web.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.Text.Json.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/System.Windows.Extensions.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/workspaces/BancoTesteTCC/bin/Release/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/workspaces/BancoTesteTCC/obj/Release/net8.0/ECOCRIA.csproj.AssemblyReference.cache
+/workspaces/BancoTesteTCC/obj/Release/net8.0/ECOCRIA.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/BancoTesteTCC/obj/Release/net8.0/ECOCRIA.AssemblyInfoInputs.cache
+/workspaces/BancoTesteTCC/obj/Release/net8.0/ECOCRIA.AssemblyInfo.cs
+/workspaces/BancoTesteTCC/obj/Release/net8.0/ECOCRIA.csproj.CoreCompileInputs.cache
+/workspaces/BancoTesteTCC/obj/Release/net8.0/ECOCRIA.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/BancoTesteTCC/obj/Release/net8.0/ECOCRIA.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/BancoTesteTCC/obj/Release/net8.0/ECOCRIA.sourcelink.json
+/workspaces/BancoTesteTCC/obj/Release/net8.0/staticwebassets.build.json
+/workspaces/BancoTesteTCC/obj/Release/net8.0/staticwebassets.development.json
+/workspaces/BancoTesteTCC/obj/Release/net8.0/staticwebassets/msbuild.ECOCRIA.Microsoft.AspNetCore.StaticWebAssets.props
+/workspaces/BancoTesteTCC/obj/Release/net8.0/staticwebassets/msbuild.build.ECOCRIA.props
+/workspaces/BancoTesteTCC/obj/Release/net8.0/staticwebassets/msbuild.buildMultiTargeting.ECOCRIA.props
+/workspaces/BancoTesteTCC/obj/Release/net8.0/staticwebassets/msbuild.buildTransitive.ECOCRIA.props
+/workspaces/BancoTesteTCC/obj/Release/net8.0/staticwebassets.pack.json
+/workspaces/BancoTesteTCC/obj/Release/net8.0/scopedcss/bundle/ECOCRIA.styles.css
+/workspaces/BancoTesteTCC/obj/Release/net8.0/ECOCRIA.csproj.Up2Date
+/workspaces/BancoTesteTCC/obj/Release/net8.0/ECOCRIA.dll
+/workspaces/BancoTesteTCC/obj/Release/net8.0/refint/ECOCRIA.dll
+/workspaces/BancoTesteTCC/obj/Release/net8.0/ECOCRIA.pdb
+/workspaces/BancoTesteTCC/obj/Release/net8.0/ECOCRIA.genruntimeconfig.cache
+/workspaces/BancoTesteTCC/obj/Release/net8.0/ref/ECOCRIA.dll
