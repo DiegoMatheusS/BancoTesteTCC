@@ -632,3 +632,8 @@ D:/Diego_Matheus_3DS/3DS/TCC/TCC-ECOCRIA/TccEcoCria/TCC-EcoCria/obj/Debug/net8.0
 /workspaces/BancoTesteTCC/obj/Debug/net8.0/ECOCRIA.pdb
 /workspaces/BancoTesteTCC/obj/Debug/net8.0/ECOCRIA.genruntimeconfig.cache
 /workspaces/BancoTesteTCC/obj/Debug/net8.0/ref/ECOCRIA.dll
+/workspaces/BancoTesteTCC/bin/Debug/net8.0/publish/web.config
+/workspaces/BancoTesteTCC/bin/Debug/net8.0/publish/appsettings.Development.json
+/workspaces/BancoTesteTCC/bin/Debug/net8.0/publish/appsettings.json
+/workspaces/BancoTesteTCC/bin/Debug/net8.0/publish/ECOCRIA.deps.json
+/workspaces/BancoTesteTCC/bin/Debug/net8.0/publish/ECOCRIA.runtimeconfig.json
