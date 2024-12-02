@@ -132,33 +132,41 @@ namespace TCCEcoCria.Controllers
             return Ok("E-mail atualizado com sucesso.");
         }
 
-        [HttpPost("RecuperarSenha")]
-        public async Task<IActionResult> RecuperarSenha([FromBody] Usuario modelo)
-        {
-            try
-            {
-                // Verifica se o e-mail existe no banco de dados
-                Usuario? usuario = await _context.TB_USUARIOS
-                    .FirstOrDefaultAsync(x => x.EmailUsuario.ToLower() == modelo.EmailUsuario.ToLower());
+    [AllowAnonymous]
+[HttpPut("RecuperarSenha")]
+public async Task<IActionResult> RecuperarSenha([FromBody] Usuario modelo)
+{
+    try
+    {
+        // Log para verificar o conteúdo recebido
+        Console.WriteLine($"Recebido: {modelo.EmailUsuario}, Senha: {modelo.PasswordUsuario}");
 
-                if (usuario == null)
-                    return BadRequest("E-mail não encontrado.");
+        // Verifica se o e-mail existe no banco de dados
+        Usuario? usuario = await _context.TB_USUARIOS
+            .FirstOrDefaultAsync(x => x.EmailUsuario.ToLower() == modelo.EmailUsuario.ToLower());
 
-                // Criptografa a nova senha fornecida
-                Criptografia.CriarPasswordHash(modelo.PasswordUsuario, out byte[] hash, out byte[] salt);
-                usuario.PasswordHash = hash;
-                usuario.PasswordSalt = salt;
+        if (usuario == null)
+            return BadRequest("E-mail não encontrado.");
 
-                // Atualiza a senha no banco de dados
-                _context.TB_USUARIOS.Update(usuario);
-                await _context.SaveChangesAsync();
+        // Criptografa a nova senha fornecida
+        Criptografia.CriarPasswordHash(modelo.PasswordUsuario, out byte[] hash, out byte[] salt);
+        usuario.PasswordHash = hash;
+        usuario.PasswordSalt = salt;
 
-                return Ok("Senha atualizada com sucesso.");
-            }
-            catch (Exception ex)
-            {
-                return BadRequest($"Erro ao atualizar a senha: {ex.Message}");
-            }
-        }
+        // Atualiza a senha no banco de dados
+        _context.TB_USUARIOS.Update(usuario);
+        await _context.SaveChangesAsync();
+
+        return Ok("Senha atualizada com sucesso.");
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine($"Erro: {ex.Message}");
+        return BadRequest($"Erro ao atualizar a senha: {ex.Message}");
+    }
+}
+
+
+
     }
 }
